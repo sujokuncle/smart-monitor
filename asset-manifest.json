@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-monitor/static/css/main.933b98be.css",
+    "main.js": "/smart-monitor/static/js/main.d61bd2cd.js",
+    "static/js/453.168ee69b.chunk.js": "/smart-monitor/static/js/453.168ee69b.chunk.js",
+    "index.html": "/smart-monitor/index.html",
+    "main.933b98be.css.map": "/smart-monitor/static/css/main.933b98be.css.map",
+    "main.d61bd2cd.js.map": "/smart-monitor/static/js/main.d61bd2cd.js.map",
+    "453.168ee69b.chunk.js.map": "/smart-monitor/static/js/453.168ee69b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933b98be.css",
+    "static/js/main.d61bd2cd.js"
+  ]
+}
